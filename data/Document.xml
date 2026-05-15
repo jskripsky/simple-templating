@@ -1,0 +1,5 @@
+<document title="[Test]">
+    <text>[Category:Hello], <br />[Category:World]</text>
+    <text>[Test]</text>
+    <text content="[Test], [Static:Test], [Category:Hello]"/>
+</document>

@@ -1,0 +1,9 @@
+{
+    "Static": {
+        "Test": "_Test_"
+    },
+    "Category": {
+        "Hello": "_Hello!_",
+        "World": "_World!_"
+    }
+}
